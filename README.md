@@ -15,10 +15,9 @@ To write a python program for simulating ARP protocols using TCP.
 stored.
 4. Read the IP address which is send by the client.
 5. Map the IP address with its MAC address and return the MAC address to client.
-P
+#### Developed By : ARUN KUMAR B
+#### Register No : 212223230021
 ## PROGRAM - ARP
-## NAME : ARUN KUMAR B
-## REF NO : 212223230021
 ![2C-ARP_Program](https://github.com/user-attachments/assets/92153243-e502-4244-af97-19b170965dfd)
 
 ## OUPUT - ARP
